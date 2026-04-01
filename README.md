@@ -195,12 +195,7 @@ If you use this code in your research, please cite the original paper:
 
 ---
 
-## License
 
-This project is for academic and educational use. Please refer to the original paper's license:  
-[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
----
 
 ## Acknowledgements
 
