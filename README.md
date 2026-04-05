@@ -2,9 +2,9 @@
 
 
 
---- ADOM:ADMM-Based Optimization Model  for Stripe Noise Removal
-      22MAT220
-Mathematics for Computing 3
+# ADOM:ADMM-Based Optimization Model  for Stripe Noise Removal
+## 22MAT220
+## Mathematics for Computing 3
 
 ##  Team Members
 
